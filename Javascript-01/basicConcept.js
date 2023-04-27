@@ -32,3 +32,9 @@ console.log(cars[0]) // we can extract out data from the postiion
 
 let fruits = { name:'mango', price:175, type:'kolkata breed'}
 console.log(fruits.name) // we can get name through object
+
+//lets say 
+ let x = '5'
+ typeof x
+ let y = 5
+typeof y 
